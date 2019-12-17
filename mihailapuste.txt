@@ -1,14 +1,18 @@
   
-<span id="a">mihailapuste@mlworks</span>:<span id="b">~</span><span id="c">$</span> cd Documents/<!-- kjsdfhkjdhsfkjdshfkj -->Resume_Stuff
-<span id="a">mihailapuste@mlworks</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->About_Me.txt <!-- kjsdfhkjdhsfkjdshfkj --> Mihai_Lapuste_CV.txt <!-- kjsdfhkjdhsfkjdshfkj --> Contact_Info.txt
+<span id="a">mihailapuste@mlworks</span>:<span id="b">~</span><span id="c">$</span> cd Documents/<!-- kjsdfhkj -->Resume_Stuff
+<span id="a">mihailapuste@mlworks</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkj -->greeting.txt 
 <br><br>
 
-Hello there! 
+<span id="p">-----------------------------------------------------</span><br>
+<span id="a">Please don’t be alarmed,</span> this is <span id="a">NOT</span> a computer virus<br>
+<span id="p">-----------------------------------------------------</span>
 <br>
-Please don't be alamared, this is my portflio website not a computer virus.<!-- laglaglaglaglaglaglaglaglaglaglaglag --> 
-<br>
-I'm <span id="k">Mihai Lapuste</span>, and I'm currently a student-athlete studying Computer Engineering at Simon Fraser University.
-<br>
+
+Hello there, <br>
+
+I’m <span id="y">Mihai Lapuste</span>, and welcome to my <a href="https://mihailapuste.github.io/">portfolio website</a>!<br>
+
+Currently, I’m a <a href="https://athletics.sfu.ca/roster.aspx?rp_id=4117">student-athlete</a> in my final year of <span id="y">Computer Engineering</span> at <a href="https://www.sfu.ca/">Simon Fraser University</a>.
 <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
 <br><br><br>
