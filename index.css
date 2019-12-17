@@ -37,6 +37,13 @@ a {
     	color: #888888
 }
 
+#y {
+	color : #ffff00;
+}
+#p {
+	color : #ff00ff;
+}
+
 @keyframes change {
     	0%  { color:  #0f0; }
     	50% { color:  #0f0; }
