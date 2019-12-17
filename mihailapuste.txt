@@ -9,10 +9,13 @@ Please don't be alamared, this is my portflio website not a computer virus.<!-- 
 <br>
 I'm <span id="k">Mihai Lapuste</span>, and I'm currently a student-athlete studying Computer Engineering at Simon Fraser University.
 <br>
+<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
+<br><br><br>
 Below you will find links to some potentially useful information about me.
 <br>
-<a href="www.linkedin.com/in/mihai-lapuste-0bb36112a">Linkedin profile</a> 
+<!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<a href="https://www.linkedin.com/in/mihai-lapuste">Linkedin profile</a> 
 <br> 
 <a href="https://github.com/mihailapuste">Github</a> and 
 
