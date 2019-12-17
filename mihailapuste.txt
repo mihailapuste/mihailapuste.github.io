@@ -1,8 +1,6 @@
-  
 <span id="a">mihailapuste@mlworks</span>:<span id="b">~</span><span id="c">$</span> cd Documents/<!-- kjsdfhkj -->Resume_Stuff
-<span id="a">mihailapuste@mlworks</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkj -->greeting.txt 
-<br><br>
-
+<span id="a">mihailapuste@mlworks</span>:<span id="b">~/Resume_Stuff</span><span id="c">$</span> cat <!-- kjsdfhkj -->greeting.txt 
+<br>
 <span id="p">-----------------------------------------------------</span><br>
 <span id="a">Please don’t be alarmed,</span> this is <span id="a">NOT</span> a computer virus<br>
 <span id="p">-----------------------------------------------------</span>
@@ -13,19 +11,26 @@ Hello there, <br>
 I’m <span id="y">Mihai Lapuste</span>, and welcome to my <a href="https://mihailapuste.github.io/">portfolio website</a>!<br>
 
 Currently, I’m a <a href="https://athletics.sfu.ca/roster.aspx?rp_id=4117">student-athlete</a> in my final year of <span id="y">Computer Engineering</span> at <a href="https://www.sfu.ca/">Simon Fraser University</a>.
-<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
-<br><br><br>
-Below you will find links to some potentially useful information about me.
+
 <br>
-<!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<span id="a">mihailapuste@mlworks</span>:<span id="b">~/Resume_Stuff</span><span id="c">$</span> cd Portfolio
+<span id="a">mihailapuste@mlworks</span>:<span id="b">~/Resume_Stuff/Portfolio</span><span id="c">$</span> ls 
+<br>
+
+<a href="">Mihai_Lapuste_CV.pdf</a> 
+<br> 
+<a href="">More_About_Me</a> 
+<br> 
+<a href="">Contact</a> 
+<br> 
 <a href="https://www.linkedin.com/in/mihai-lapuste">Linkedin profile</a> 
 <br> 
 <a href="https://github.com/mihailapuste">Github</a> and 
-
-
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment -->
-
-<a href="Your email ID">Email</a>.
-
-<p>Cheers!</p>
+<br> 
+<a href="">Projects</a> 
+<br> 
+<a href="">Art_Stuff</a> 
+<br> 
+<a href="">Misc.</a> 
+<br> 
