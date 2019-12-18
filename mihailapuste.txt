@@ -16,7 +16,7 @@ Currently, I’m a <a href="https://athletics.sfu.ca/roster.aspx?rp_id=4117">stu
 <span id="a">mihailapuste@mlworks</span>:<span id="b">~/Resume_Stuff/Portfolio</span><span id="c">$</span> ls 
 <br>
 
-<a href="./More_About_Me.html">More_About_Me.html</a> 
+<a href="./More_About_Me.html">More_About_Me.txt</a> 
 <br> 
 <a href="./Mihai_Lapuste_CV.pdf" download>Mihai_Lapuste_CV.pdf</a> 
 <br> 
