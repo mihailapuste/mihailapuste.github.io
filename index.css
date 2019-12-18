@@ -4,6 +4,7 @@ body {
 
 th, td {
 	padding-right: 18px;
+	font-size:16px;
   }
 
 #console {
@@ -19,6 +20,7 @@ th, td {
 a {
 	color: #0bc;
 	text-decoration: none;
+	font-size:16px;
 }
 
 #a {
