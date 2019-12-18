@@ -2,9 +2,9 @@
 <span id="a">mihailapuste@mlworks</span>:<span id="b">~</span><span id="c">$</span> cd Documents/<!-- kjsdfhkj -->Resume_Stuff
 <span id="a">mihailapuste@mlworks</span>:<span id="b">~/Resume_Stuff</span><span id="c">$</span> cat <!-- kjsdfhkj -->greeting.txt 
 <br>
-<span id="p">---------------------------------------------</span><br>
-<span id="a">Please don’t be alarmed,</span> this is <span id="a">NOT</span> a computer virus<br>
-<span id="p">---------------------------------------------</span>
+<span id="p">----------------------------</span><br>
+<span id="a">This is NOT a computer virus</span><br>
+<span id="p">----------------------------</span>
 <br>
 
 Hello there, <br>
@@ -25,7 +25,7 @@ Currently, I’m a <a href="https://athletics.sfu.ca/roster.aspx?rp_id=4117">stu
 <br> 
 <a href="">Contact</a> 
 <br> 
-<a href="https://www.linkedin.com/in/mihai-lapuste">Linkedin profile</a> 
+<a href="https://www.linkedin.com/in/mihai-lapuste">Linkedin</a> 
 <br> 
 <a href="https://github.com/mihailapuste">Github</a> 
 <br> 
