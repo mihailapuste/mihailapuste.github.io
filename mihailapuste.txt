@@ -6,9 +6,9 @@
 
 Hello there, <br>
 
-I’m <span id="y">Mihai Lapuste</span>, and welcome to my <a href="https://mihailapuste.github.io/">portfolio website</a>!<br>
+I’m <span id="y">Mihai Lapuste</span>, and welcome to my <a href="https://mihailapuste.github.io/" target="_blank">portfolio website</a>!<br>
 
-Currently, I’m a <a href="https://athletics.sfu.ca/roster.aspx?rp_id=4117">student-athlete</a> in my final year of <span id="y">Computer Engineering</span> at <a href="https://www.sfu.ca/">Simon Fraser University</a>.
+Currently, I’m a <a href="https://athletics.sfu.ca/roster.aspx?rp_id=4117" target="_blank">student-athlete</a> in my final year of <span id="y">Computer Engineering</span> at <a href="https://www.sfu.ca/" target="_blank">Simon Fraser University</a>.
 
 
 <br>
@@ -16,23 +16,23 @@ Currently, I’m a <a href="https://athletics.sfu.ca/roster.aspx?rp_id=4117">stu
 <span id="a">mihailapuste@mlworks</span>:<span id="b">~/Resume_Stuff/Portfolio</span><span id="c">$</span> ls 
 <br>
 
-<a href="./More_About_Me.html">More_About_Me.txt</a> 
+<a href="./More_About_Me.html" target="_blank">More_About_Me.html</a> 
 <br> 
 <a href="./Mihai_Lapuste_CV.pdf" download>Mihai_Lapuste_CV.pdf</a> 
 <br> 
-<a href="./Contact.html">Contact</a> 
+<a href="./Contact.html" target="_blank">Contact</a> 
 <br> 
-<a href="https://www.linkedin.com/in/mihai-lapuste">Linkedin</a> 
+<a href="https://www.linkedin.com/in/mihai-lapuste" target="_blank">Linkedin</a> 
 <br> 
-<a href="https://github.com/mihailapuste">Github</a> 
+<a href="https://github.com/mihailapuste" target="_blank">Github</a> 
 <br> 
-<a href="">Projects</a> 
+<a href="" target="_blank">Projects</a> 
 <br> 
-<a href="">Art_Stuff</a> 
+<a href="" target="_blank">Art_Stuff</a> 
 <br> 
-<a href="">Football</a> 
+<a href="" target="_blank">Football</a> 
 <br> 
-<a href="">Misc.</a> 
+<a href="" target="_blank">Misc.</a> 
 <br> 
 
 <span id="a">mihailapuste@mlworks</span>:<span id="b">~/Resume_Stuff/Portfolio</span><span id="c">$</span>
