@@ -1,4 +1,3 @@
-  
 <span id="a">mihailapuste@mlworks</span>:<span id="b">~</span><span id="c">$</span> cd Documents/<!-- kjsdfhkj -->Resume_Stuff
 <span id="a">mihailapuste@mlworks</span>:<span id="b">~/Resume_Stuff</span><span id="c">$</span> cat <!-- kjsdfhkj -->greeting.txt 
 <br>
@@ -17,21 +16,23 @@ Currently, I’m a <a href="https://athletics.sfu.ca/roster.aspx?rp_id=4117">stu
 <span id="a">mihailapuste@mlworks</span>:<span id="b">~/Resume_Stuff/Portfolio</span><span id="c">$</span> ls 
 <br>
 
-<a href="./More_About_Me.html">More_About_Me</a> 
-<br> 
-<a href="./Mihai_Lapuste_CV.pdf" download>Mihai_Lapuste_CV.pdf</a> 
-<br> 
-<a href="./Contact.html">Contact</a> 
-<br> 
-<a href="https://www.linkedin.com/in/mihai-lapuste">Linkedin</a> 
-<br> 
-<a href="https://github.com/mihailapuste">Github</a> 
-<br> 
-<a href="">Projects</a> 
-<br> 
-<a href="">Art_Stuff</a> 
-<br> 
-<a href="">Misc.</a> 
-<br>
+
+<table id="c">
+    <tr>
+      <td><a href="./More_About_Me.html">More_About_Me.html</a> </td>
+      <td><a href="https://www.linkedin.com/in/mihai-lapuste">Linkedin</a> </td>
+      <td><a href="">Projects</a></td>
+    </tr>
+    <tr>
+      <td><a href="./Mihai_Lapuste_CV.pdf" download>Mihai_Lapuste_CV.pdf</a></td>
+      <td><a href="https://github.com/mihailapuste">Github</a></td>
+      <td><a href="">Misc.</a></td>
+    </tr>
+    <tr>
+      <td><a href="./Contact.html">Contact</a> </td>
+      <td><a href="">Art_Stuff</a> </td>
+      <td><a href="">Football</a></td>
+    </tr>
+  </table>
 
 <span id="a">mihailapuste@mlworks</span>:<span id="b">~/Resume_Stuff/Portfolio</span><span id="c">$</span>
