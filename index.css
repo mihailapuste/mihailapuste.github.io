@@ -2,6 +2,10 @@ body {
 	background-color: #000
 }
 
+th, td {
+	padding: 15px;
+  }
+
 #console {
 	font-family: courier, monospace;
 	color: #fff;
