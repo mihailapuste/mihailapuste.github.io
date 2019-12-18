@@ -8,7 +8,7 @@ Hello there, <br>
 
 I’m <span id="y">Mihai Lapuste</span>, and welcome to my <a href="https://mihailapuste.github.io/" target="_blank">portfolio website</a>!<br>
 
-Currently, I’m a <a href="https://athletics.sfu.ca/roster.aspx?rp_id=4117" target="_blank">student-athlete</a> in my final year of <span id="y">Computer Engineering</span> at <a href="https://www.sfu.ca/" target="_blank">Simon Fraser University</a>.
+Currently, I’m a <a href="https://athletics.sfu.ca/roster.aspx?rp_id=4117" target="_blank">student-athlete</a> in my final year of <a href="http://www.sfu.ca/engineering/About_Engineering_Science.html" target="_blank">Computer Engineering</a> at <a href="https://www.sfu.ca/" target="_blank">Simon Fraser University</a>.
 
 
 <br>
