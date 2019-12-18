@@ -2,10 +2,8 @@
 <span id="a">mihailapuste@mlworks</span>:<span id="b">~</span><span id="c">$</span> cd Documents/<!-- kjsdfhkj -->Resume_Stuff
 <span id="a">mihailapuste@mlworks</span>:<span id="b">~/Resume_Stuff</span><span id="c">$</span> cat <!-- kjsdfhkj -->greeting.txt 
 <br>
-<span id="p">----------------------------</span><br>
-<span id="a">This is NOT a computer virus</span><br>
-<span id="p">----------------------------</span>
-<br>
+<span id="p">></span> This is <span id="a">NOT</span> a computer virus<br>
+<span id="p">></span> Links are in <span id="c">blue</span><br>
 
 Hello there, <br>
 
@@ -19,11 +17,11 @@ Currently, I’m a <a href="https://athletics.sfu.ca/roster.aspx?rp_id=4117">stu
 <span id="a">mihailapuste@mlworks</span>:<span id="b">~/Resume_Stuff/Portfolio</span><span id="c">$</span> ls 
 <br>
 
+<a href="./More_About_Me.html">More_About_Me</a> 
+<br> 
 <a href="./Mihai_Lapuste_CV.pdf" download>Mihai_Lapuste_CV.pdf</a> 
 <br> 
-<a href="">More_About_Me</a> 
-<br> 
-<a href="">Contact</a> 
+<a href="./Contact.html">Contact</a> 
 <br> 
 <a href="https://www.linkedin.com/in/mihai-lapuste">Linkedin</a> 
 <br> 
