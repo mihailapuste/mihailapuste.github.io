@@ -20,7 +20,7 @@ Currently, I’m a <a href="https://athletics.sfu.ca/roster.aspx?rp_id=4117" tar
 <br> 
 <a href="./Mihai_Lapuste_CV.pdf" download>Mihai_Lapuste_CV.pdf</a> 
 <br> 
-<a href="./Contact.html">Contact.txt</a> 
+<a href="./Contact.html">Contact</a> 
 <br> 
 <a href="https://www.linkedin.com/in/mihai-lapuste" target="_blank">Linkedin</a> 
 <br> 
