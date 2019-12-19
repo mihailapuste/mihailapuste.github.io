@@ -55,3 +55,63 @@ a {
     	50% { color:  #0f0; }
     	99% { color: black; }
 }
+#wrapper {
+	font-family: courier, monospace;
+	font-size: 14px;
+	width:100%;
+	max-width:500px;
+	box-sizing: border-box;
+}
+
+label {
+	display: block;
+	font-size: 16px;
+	padding: 13px 0;
+	color: #0f0;
+}
+
+input {
+	font-family: courier, monospace;
+	height: 18px;
+	padding: 15px 10px 15px 10px;
+	width: 100%;
+	font-size: 16px;
+	box-sizing: border-box;
+	background: transparent;
+	color: white;
+	border-color: #0f0;
+	border-style: solid;
+}
+
+textarea {
+	font-family: courier, monospace;
+	height: 150px;
+	width: 100%;
+	font-size: 16px;
+	box-sizing: border-box;
+	padding: 15px 10px 15px 10px;
+	background: transparent;
+	color: white;
+	border-color: #0f0;
+	border-style: solid;
+}
+
+
+input#submit {
+	text-align: center;
+	color: #0f0;
+	height: 50px;
+	padding: 0;
+	font-size: 24px;
+	text-transform: uppercase;
+	margin: 15px 0px;
+	background: transparent;
+	border-color: #0f0;
+	border-style: solid;
+}
+
+input#submit:hover {
+	cursor: pointer;
+	background:  #0f0;
+	color: black;
+}
