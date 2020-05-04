@@ -26,13 +26,13 @@ Currently, I’m a <a href="https://athletics.sfu.ca/roster.aspx?rp_id=4117" tar
 <br> 
 <a href="https://github.com/mihailapuste" target="_blank">Github</a> 
 <br> 
-<a href="" target="_blank">Projects</a> 
+<a href="./Projects.html" target="_blank">Projects</a> 
 <br> 
-<a href="" target="_blank">Art_Stuff</a> 
+<a href="./Art_Stuff.html" target="_blank">Art_Stuff</a> 
 <br> 
-<a href="" target="_blank">Football</a> 
+<a href="./Football.html" target="_blank">Football</a> 
 <br> 
-<a href="" target="_blank">Misc.</a> 
+<a href="./Misc.html" target="_blank">Misc</a> 
 <br> 
 
 <span id="a">mihailapuste@mlworks</span>:<span id="b">~/Resume_Stuff/Portfolio</span><span id="c">$</span>
